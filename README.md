@@ -1,4 +1,4 @@
-# Deprecated , 请访问新项目 [zjxpcyc/encoder](https://github.com/zjxpcyc/gen)
+# Deprecated , 请访问新项目 [zjxpcyc/encoder](https://github.com/zjxpcyc/encoder)
 
 # Gen 简易数据加解密与转解码集合
 Golang 语言本身间接或者直接提供了很多加解密或者转解码的 API, 本库是做了一些我常用的整合 
