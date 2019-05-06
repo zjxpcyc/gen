@@ -1,3 +1,5 @@
+# Deprecated , 请访问新项目 [zjxpcyc/encoder](https://github.com/zjxpcyc/gen)
+
 # Gen 简易数据加解密与转解码集合
 Golang 语言本身间接或者直接提供了很多加解密或者转解码的 API, 本库是做了一些我常用的整合 
 暂时本库只是作为一个辅助工具集使用，因此并不具备复杂的扩展功能，所有接口以快速使用为主。
@@ -5,6 +7,7 @@ Golang 语言本身间接或者直接提供了很多加解密或者转解码的 
 
 
 其中 `CBC7Decrypt` 函数是为微信小程序做准备
+> CBC7Decrypt 方法是错误的, 请不要使用
 
 ## 安装与使用
 ```golang
